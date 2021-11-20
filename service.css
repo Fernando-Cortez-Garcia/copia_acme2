@@ -1,0 +1,38 @@
+.cajaservice{
+    background: #e6e6e6;
+    margin-bottom: 5px;
+    padding: 29px;
+
+}
+#formulario{
+
+    padding: 15px;
+    background: #35424a;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 20%;
+    float: right;
+    margin-left: 17px;
+    margin-right: 10em;
+    margin-top: -39px;
+    padding-bottom: 13px;
+    padding-top: 20px;
+
+     
+}
+.sumit{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-content: space-around;
+    background: #E8491D;
+    color: white;
+}
+.imputs{
+    width: 30px;
+
+
+}
+
